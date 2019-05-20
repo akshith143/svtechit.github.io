@@ -642,6 +642,11 @@ Inner Banner
   padding-bottom: 10px;
 }
 
+.vititle{
+  font-color: #000 !important;
+  text-align: center !important;
+}
+
 /* Services Section
 --------------------------------*/
 #services {
